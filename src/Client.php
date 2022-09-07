@@ -4,7 +4,7 @@ namespace Adcuz\FatSecret;
 
 class Client {
 
-    static public $base = 'http://platform.fatsecret.com/rest/server.api?format=json&';
+    static public $base = 'https://platform.fatsecret.com/rest/server.api?format=json&';
     public $maxResults = 20;
 
     /* Private Data */
